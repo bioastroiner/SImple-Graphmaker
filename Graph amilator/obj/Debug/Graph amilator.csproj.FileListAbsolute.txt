@@ -1,0 +1,7 @@
+C:\Users\Naderi\source\repos\Graph amilator\Graph amilator\bin\Debug\Graph amilator.exe.config
+C:\Users\Naderi\source\repos\Graph amilator\Graph amilator\bin\Debug\Graph amilator.exe
+C:\Users\Naderi\source\repos\Graph amilator\Graph amilator\bin\Debug\Graph amilator.pdb
+C:\Users\Naderi\source\repos\Graph amilator\Graph amilator\obj\Debug\Graph amilator.csprojAssemblyReference.cache
+C:\Users\Naderi\source\repos\Graph amilator\Graph amilator\obj\Debug\Graph amilator.csproj.CoreCompileInputs.cache
+C:\Users\Naderi\source\repos\Graph amilator\Graph amilator\obj\Debug\Graph amilator.exe
+C:\Users\Naderi\source\repos\Graph amilator\Graph amilator\obj\Debug\Graph amilator.pdb
